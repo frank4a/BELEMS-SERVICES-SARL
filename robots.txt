@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frank4a.github.io/BELEMS-SERVICES-SARL/sitemap.xml
